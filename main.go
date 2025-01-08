@@ -5,11 +5,11 @@ import (
 	"net/http"
 
 	_ "github.com/joho/godotenv/autoload"
-	"github.com/regalen76/common"
+	common "github.com/regalen76/nerucci_common"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	pb "github.com/regalen76/common/api"
+	pb "github.com/regalen76/nerucci_common/api"
 )
 
 var (

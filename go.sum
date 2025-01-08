@@ -1,2 +1,4 @@
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/regalen76/nerucci_common v0.0.0-20250108154517-a0b78fc13552 h1:O23zyBJI/w6yj+Q72Rqnw26f2btrSrR1/yBSLttEZ6I=
+github.com/regalen76/nerucci_common v0.0.0-20250108154517-a0b78fc13552/go.mod h1:DGg2hxlwTpU0ScjNUdTUcLF1la8fEKXH90c1DwaRrig=

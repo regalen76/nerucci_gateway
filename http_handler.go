@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/regalen76/common"
-	pb "github.com/regalen76/common/api"
+	common "github.com/regalen76/nerucci_common"
+	pb "github.com/regalen76/nerucci_common/api"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )
