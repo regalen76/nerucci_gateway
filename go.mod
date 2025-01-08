@@ -1,4 +1,4 @@
-module github.com/regalen76/gateway
+module github.com/regalen76/nerucci_gateway
 
 go 1.23.4
 
